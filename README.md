@@ -24,4 +24,6 @@ At the end of the this coding challenge, students will be able to;
 # Happy Coding 
 
 
-URL: https://e2295-tuncay.github.io/CSS-Grid/.
+
+
+Site is ready to be published at https://e2295-tuncay.github.io/CSS-Grid/.
